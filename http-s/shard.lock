@@ -1,0 +1,6 @@
+version: 2.0
+shards:
+  lsp:
+    git: https://github.com/elbywan/crystal-lsp.git
+    version: 0.1.2
+
